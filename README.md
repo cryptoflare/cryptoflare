@@ -47,6 +47,6 @@ And So On
 <br/>
 <br/>
 
-# View More
+# How to get the app??
 
 View More and download from [Aldol Official Website](https://aldol.netlify.app)😇
