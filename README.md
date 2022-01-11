@@ -28,14 +28,19 @@ And So On
 <tr>
 <td><img src="https://aldol.netlify.app/assets/img/header/header-app.png" height="400px" width="210px" /></td>
 <td><img src="https://aldol.netlify.app/assets/img/about/about-app.png" height="400px" width="210px" /></td>
-<td><img src="https://aldol.netlify.app/assets/img/download/download-app.png" height="400px" width="210px" /></td>
-<td><img src="https://user-images.githubusercontent.com/64122408/148881432-d02e0f4e-eb20-4b9a-b144-f9eeb368cd39.png" height="400px" width="210px" /></td>
 </tr>
 <tr>
   <td><h3>Home Screen</h3></td>
   <td><h3>Analytics Screen</h3></td>
+</tr>
+
+<tr>
+<td><img src="https://aldol.netlify.app/assets/img/download/download-app.png" height="400px" width="210px" /></td>
+<td><img src="https://user-images.githubusercontent.com/64122408/148881432-d02e0f4e-eb20-4b9a-b144-f9eeb368cd39.png" height="400px" width="210px" /></td>
+</tr>
+<tr>
   <td><h3>Portfolio Screen</h3></td>
-  <td><h3>Coins Listing Screen</h3><td>
+  <td><h3>Coins Listing Screen</h3></td>
 </tr>
 </table>
 
