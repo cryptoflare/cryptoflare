@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/64122408/148880414-8bfc2600-c16f-469d-a2d9-7ea25c86016b.png" height=50px width=100px>&emsp;Cryptolytics</h1> 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/64122408/148880414-8bfc2600-c16f-469d-a2d9-7ea25c86016b.png" height=50px width=125px>&emsp;Cryptolytics</h1> 
 <br/>
 <br/>
 
