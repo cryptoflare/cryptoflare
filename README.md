@@ -28,7 +28,7 @@ A Crypto app for analyzing your crypto wallets!
 * Added Google Sign In
 
 and much more...
-Check it yourself :)
+Check it yourself :) 
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/64122408/152518100-0b5e4d48-5023-460f-b386-20e655b20d66.png" width="32%"> <img src="https://user-images.githubusercontent.com/64122408/152518704-4e9a7bb1-5684-4222-b11c-fe0be543242c.png" width="32%"> <img src="https://user-images.githubusercontent.com/64122408/152518898-6ed9017a-f00f-436b-8763-a883046e917a.png" width="32%"> <img src="https://user-images.githubusercontent.com/64122408/152523467-d4874329-0569-4cd9-a54e-05efb7910dc3.png" width="32%"> <img src="https://user-images.githubusercontent.com/64122408/152523558-7d4c8b49-ee6e-4bcc-981b-16b6dddcc2cf.png" width="32%"> <img src="https://user-images.githubusercontent.com/64122408/152523630-70765b20-ffdc-4825-b2be-607bb5691585.png" width="32%">
