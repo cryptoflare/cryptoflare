@@ -51,4 +51,5 @@ If your problem is not in the issues, feel free to open an Issue :)
 
 ## Done By
 
-[Karthik Raja K]()
+[Karthik Raja K](https://linktr.ee/karthikraja01)
+[Sujith D](https://github.comm/sujith5378)
