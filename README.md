@@ -35,7 +35,7 @@ Check it yourself :)
 
 ## License
 
-View [License]('https://pages.flycricket.io/cryptoflare/terms.html')
+[View License]('https://pages.flycricket.io/cryptoflare/terms.html')
 
 ## Facing any Issue?
 
